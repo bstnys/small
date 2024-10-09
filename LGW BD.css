@@ -1,0 +1,54 @@
+*{
+    margin: 50;
+    padding: 50;
+    text-decoration: none;
+    list-style-type: none;
+}
+.BG{
+    z-index: -1;
+    background-attachment: fixed;
+    background-size:auto;
+    position: fixed;
+    opacity: 30%;
+    scale: 300%;
+}
+.cong{
+    width: 804px;
+    height: 386px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10%;
+}
+.happy1{
+    font-size: 25em;
+}
+.fact1{
+    padding-top: 30px;
+    font-size: 5pt;
+}
+.cont1{
+    margin-top: 150px;
+    font-size: 40pt;
+}
+.kanye{
+    margin-top: 200px;
+    margin-left: 28%;
+}
+.robber{
+    margin-left: 60px;
+}
+.mb{
+    margin-top: 100px;
+    margin-left: 30%;
+}
+.gd{
+    margin-top: 100px;
+    margin-left: 10%;
+}
+.yg{
+    margin-top: 100px;
+    margin-left: 10%;
+    width: 600px;
+    height: 700px;
+}
